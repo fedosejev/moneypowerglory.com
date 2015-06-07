@@ -1,2 +1,2 @@
-# moneypowerglory.com
-Website's source code.
+# MoneyPowerGlory.com
+Fullscreen animated gif.
