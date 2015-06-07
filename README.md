@@ -1,2 +1,2 @@
 # MoneyPowerGlory.com
-Fullscreen animated gif.
+Fullscreen animated gif: http://moneypowerglory.com
